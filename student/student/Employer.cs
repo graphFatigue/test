@@ -9,7 +9,6 @@ namespace Homework
     internal class Employer
     {
         public string Name { get; set; }
-        //public Student[] Employee { get; set; }
         public List<Student> Employee { get; set; } = new List<Student>();
 
         public Employer(string name)

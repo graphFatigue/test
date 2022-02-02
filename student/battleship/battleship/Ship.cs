@@ -43,7 +43,5 @@ namespace Battleship
         public void Move()
         {
         }
-
-
     }
 }
